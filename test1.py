@@ -1,6 +1,5 @@
-a = 'abcdefg'
-b = "ab"
-list = []
-list.append(a[0:3])
-print(list)
-
+lists = ['apple', 'banana', 'pear']
+# for i in lists:
+#     print(i)
+# a = 'apple'
+print(lists[0][0:2])
