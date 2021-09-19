@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5ae73ae-5845-40a6-b96b-7d1bd7320d16" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,8 +13,9 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/LC_fighting$ValidParentheses.coverage" NAME="ValidParentheses Coverage Results" MODIFIED="1631989949636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20. Valid Parentheses" />
-    <SUITE FILE_PATH="coverage/LC_fighting$BestTimetoBuyandSellStock.coverage" NAME="BestTimetoBuyandSellStock Coverage Results" MODIFIED="1631990925100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/121. Best Time to Buy and Sell Stock" />
+    <SUITE FILE_PATH="coverage/LC_fighting$BestTimetoBuyandSellStock.coverage" NAME="BestTimetoBuyandSellStock Coverage Results" MODIFIED="1632066561327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/121. Best Time to Buy and Sell Stock" />
     <SUITE FILE_PATH="coverage/LC_fighting$ReverseInteger.coverage" NAME="ReverseInteger Coverage Results" MODIFIED="1631988849508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7. ReverseInteger" />
+    <SUITE FILE_PATH="coverage/LC_fighting$MaximumSubarray.coverage" NAME="MaximumSubarray Coverage Results" MODIFIED="1632091093189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/53. Maximum Subarray" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -57,6 +59,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/53. Maximum Subarray/MaximumSubarray.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/13. Roman to Integer/RomantoInteger.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -88,7 +102,7 @@
         <entry file="file://$PROJECT_DIR$/test1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+              <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -129,6 +143,7 @@
         <option value="$PROJECT_DIR$/13. Roman to Integer/RomantoInteger.py" />
         <option value="$PROJECT_DIR$/14. Longest Common Prefix/LongestCommonPrefix.py" />
         <option value="$PROJECT_DIR$/20. Valid Parentheses/ValidParentheses.py" />
+        <option value="$PROJECT_DIR$/53. Maximum Subarray/MaximumSubarray.py" />
         <option value="$PROJECT_DIR$/121. Best Time to Buy and Sell Stock/BestTimetoBuyandSellStock.py" />
       </list>
     </option>
@@ -156,32 +171,12 @@
             <path>
               <item name="LC-fighting" type="b2602c69:ProjectViewProjectNode" />
               <item name="LC-fighting" type="462c0819:PsiDirectoryNode" />
-              <item name="1. Two Sum" type="462c0819:PsiDirectoryNode" />
+              <item name="53. Maximum Subarray" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LC-fighting" type="b2602c69:ProjectViewProjectNode" />
               <item name="LC-fighting" type="462c0819:PsiDirectoryNode" />
-              <item name="7. ReverseInteger" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LC-fighting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LC-fighting" type="462c0819:PsiDirectoryNode" />
-              <item name="9. Palindrome Number" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LC-fighting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LC-fighting" type="462c0819:PsiDirectoryNode" />
-              <item name="13. Roman to Integer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LC-fighting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LC-fighting" type="462c0819:PsiDirectoryNode" />
-              <item name="14. Longest Common Prefix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LC-fighting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LC-fighting" type="462c0819:PsiDirectoryNode" />
-              <item name="20. Valid Parentheses" type="462c0819:PsiDirectoryNode" />
+              <item name="121. Best Time to Buy and Sell Stock" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -208,7 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BestTimetoBuyandSellStock">
+  <component name="RunManager" selected="Python.MaximumSubarray">
     <configuration name="BestTimetoBuyandSellStock" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LC-fighting" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -223,6 +218,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/121. Best Time to Buy and Sell Stock/BestTimetoBuyandSellStock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MaximumSubarray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LC-fighting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/53. Maximum Subarray" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/53. Maximum Subarray/MaximumSubarray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,6 +294,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MaximumSubarray" />
         <item itemvalue="Python.BestTimetoBuyandSellStock" />
         <item itemvalue="Python.ValidParentheses" />
         <item itemvalue="Python.ReverseInteger" />
@@ -294,7 +312,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630633224786</updated>
       <workItem from="1630633226016" duration="4373000" />
-      <workItem from="1631849750829" duration="10478000" />
+      <workItem from="1631849750829" duration="13427000" />
     </task>
     <task id="LOCAL-00001" summary="after review the solution">
       <created>1631893085075</created>
@@ -307,7 +325,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14851000" />
+    <option name="totallyTimeSpent" value="17800000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -322,12 +340,12 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -383,7 +401,7 @@
     <entry file="file://$PROJECT_DIR$/test1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -427,6 +445,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/53. Maximum Subarray/MaximumSubarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

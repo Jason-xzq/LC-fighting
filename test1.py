@@ -1,5 +1,6 @@
 import sys
 lists = ['apple', 'banana', 'pear']
+
 # for i in lists:
 #     print(i)
 # a = 'apple'
