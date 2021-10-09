@@ -1,3 +1,11 @@
-list = [0, 1]
-list.pop(1)
-print(str(list))
+dict = {"a":[1, 2, 3], "b":4}
+print(dict)
+keys = dict.keys()
+print("keys\n")
+print(type(keys))
+print(keys)
+keys = list(keys)
+print(type(keys))
+print(keys)
+dict.pop("b")
+print(dict)

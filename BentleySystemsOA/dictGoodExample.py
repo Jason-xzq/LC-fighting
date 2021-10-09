@@ -1,6 +1,6 @@
 
-
 #need more shortcut
+#should consider space complexity
 #could consider bit operation
 def solution(N, K):
     # write your code in Python 3.6

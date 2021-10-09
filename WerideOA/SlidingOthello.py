@@ -1,4 +1,6 @@
 # Enter your code here. Read input from STDIN. Print output to STDOUT
+
+# Not bug free!
 def main():
     def move(movedepth, rowId, colId, rowDis, colDis):
         newRowId = rowId + rowDis
