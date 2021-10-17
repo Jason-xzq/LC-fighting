@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5ae73ae-5845-40a6-b96b-7d1bd7320d16" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BentleySystemsOA/dictGoodExample.py" beforeDir="false" afterPath="$PROJECT_DIR$/BentleySystemsOA/dictGoodExample.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
-    </list>
+    <list default="true" id="e5ae73ae-5845-40a6-b96b-7d1bd7320d16" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +24,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DRWOA/T1.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/200. Number of Islands/NumberofIslands.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="24" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -74,6 +74,7 @@
         <option value="$PROJECT_DIR$/BentleySystemsOA/dictGoodExample.py" />
         <option value="$PROJECT_DIR$/test2.py" />
         <option value="$PROJECT_DIR$/DRWOA/T1.py" />
+        <option value="$PROJECT_DIR$/200. Number of Islands/NumberofIslands.py" />
       </list>
     </option>
   </component>
@@ -108,7 +109,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -286,7 +287,7 @@
       <workItem from="1633645916461" duration="219000" />
       <workItem from="1633789798172" duration="9925000" />
       <workItem from="1634343375737" duration="3000" />
-      <workItem from="1634408776713" duration="949000" />
+      <workItem from="1634408776713" duration="2915000" />
     </task>
     <task id="LOCAL-00001" summary="after review the solution">
       <created>1631893085075</created>
@@ -313,7 +314,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44251000" />
+    <option name="totallyTimeSpent" value="46217000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -519,6 +520,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DRWOA/T1.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DRWOA/src/com/company/DRWOA.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/200. Number of Islands/NumberofIslands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="24" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
