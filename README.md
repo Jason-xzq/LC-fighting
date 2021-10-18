@@ -24,3 +24,16 @@ None is not the same as 0, False, or an empty string. None is a data type of its
 | setdefault() | Returns the value of the specified key. If the key does not exist: insert the key, with the specified value |
 | update()     | Updates the dictionary with the specified key-value pairs    |
 | values()     | Returns a list of all the values in the dictionary           |
+
+### Python lambda
+
+[good example](https://zhuanlan.zhihu.com/p/80960485)
+
+### Python defaultdictionary 
+
+[good example](https://www.jianshu.com/p/bbd258f99fd3)
+
+### Python String
+
+[string join operation](https://www.programiz.com/python-programming/methods/string/join)
+

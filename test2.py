@@ -1,17 +1,25 @@
-# dict = {"a":[1, 2, 3], "b":4}
-# print(dict)
-# keys = dict.keys()
-# print("keys\n")
-# print(type(keys))
-# print(keys)
-# keys = list(keys)
-# print(type(keys))
-# print(keys)
-# dict.pop("b")
-# print(dict)
-my_iter = iter([1, 2])
-print(next(my_iter))
-print(next(my_iter))
-print(type(my_iter))
+from collections import defaultdict
 
-print(type(iter(range(5))))
+dict = {1: "apple", 2: "pear", 3: "banana"}
+list = ["apple", "pear", "banana"]
+list.sort(key = lambda s:len(s))
+print(list)
+
+name = "abcdef"
+print(name[:2])
+print(name[2:])
+print(name[:])
+
+dict= defaultdict(int)
+print(dict[1])
+print(dict[2])
+print(dict)
+
+word = "s"
+print(word[:1])
+# print(type(dict.keys()))
+# for i in dict.keys():
+#     print(type(i))
+#     print(i)
+
+print(5//2)
