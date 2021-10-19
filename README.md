@@ -37,3 +37,14 @@ None is not the same as 0, False, or an empty string. None is a data type of its
 
 [string join operation](https://www.programiz.com/python-programming/methods/string/join)
 
+### Python Set
+
+[excellent data structure constant time in searching](https://www.runoob.com/python3/python3-set.html)
+
+## Solutions
+
+### T166
+
+- case: forget negative case
+- int/int would get float; if you want return int, use //
+- IMPORTANT: check remainder not quotient to determine whether it is recurring!
