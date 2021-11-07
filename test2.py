@@ -23,3 +23,13 @@ print(word[:1])
 #     print(i)
 
 print(5//2)
+
+
+index = 0
+for i in range(5):
+    index += i
+    print(i)
+
+print(index)
+print(i)
+
