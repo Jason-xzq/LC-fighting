@@ -48,3 +48,7 @@ None is not the same as 0, False, or an empty string. None is a data type of its
 - case: forget negative case
 - int/int would get float; if you want return int, use //
 - IMPORTANT: check remainder not quotient to determine whether it is recurring!
+
+### T33&T13
+take care of conditions!!!
+too many details
