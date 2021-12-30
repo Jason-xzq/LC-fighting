@@ -33,8 +33,48 @@ from collections import defaultdict
 # print(index)
 # print(i)
 
-print(float('inf'))
-print(type(float('inf')))
-print(float('INF'))
-dp = [0] * 5
-print(dp)
+# print(float('inf'))
+# print(type(float('inf')))
+# print(float('INF'))
+# dp = [0] * 5
+# print(dp)
+
+# dp = [[0]*2 for i in range(3)]
+# print(dp)
+
+# dict = {}
+# dict[1] = 1
+# if 1 in dict:
+#     print("bingo!")
+
+#
+# a = 3
+# b = 2
+# a, b = b, max(a, b)
+# print("a: " + str(a))
+# print("b: " + str(b))
+
+# s = "0123"
+# if s[0] == "0":
+#     print(int(s[0:]))
+#     print(type(int(s[0:])))
+
+# m, n = 3, 7
+# dp = [[0]*(n+1) for _ in range(m+1)]
+# print(dp)
+
+# from collections import deque
+# q = deque([1])
+# print(len(q))
+# q.append(3)
+# print(len(q))
+# q.append(None)
+# print(len(q))
+# print(q)
+
+levels = []
+level = 0
+levels.append([])
+levels[level].append(1)
+levels[level].append(2)
+print(levels)

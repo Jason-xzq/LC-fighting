@@ -41,6 +41,9 @@ None is not the same as 0, False, or an empty string. None is a data type of its
 
 [excellent data structure constant time in searching](https://www.runoob.com/python3/python3-set.html)
 
+### Python Deque(great tools)
+https://www.geeksforgeeks.org/deque-in-python/
+
 ## Solutions
 
 ### T166
@@ -52,3 +55,6 @@ None is not the same as 0, False, or an empty string. None is a data type of its
 ### T33&T13
 take care of conditions!!!
 too many details
+
+###213 
+very close to the solution: review later
