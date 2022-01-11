@@ -72,9 +72,18 @@ from collections import defaultdict
 # print(len(q))
 # print(q)
 
-levels = []
-level = 0
-levels.append([])
-levels[level].append(1)
-levels[level].append(2)
-print(levels)
+# levels = []
+# level = 0
+# levels.append([])hope so
+# levels[level].append(1)
+# levels[level].append(2)
+# print(levels)hope so
+
+# a = [[1, 3], [-1, 5]]
+# a.sort(key=lambda x:x[1])
+# print(a[0][-1])
+# print(a)
+
+placed = False
+if not placed:
+    print("bigno")

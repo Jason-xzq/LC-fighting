@@ -44,6 +44,12 @@ None is not the same as 0, False, or an empty string. None is a data type of its
 ### Python Deque(great tools)
 https://www.geeksforgeeks.org/deque-in-python/
 
+### deepcopy & shallow copy
+
+C++ 简单=赋值就是深拷贝，引用和取地址才是浅拷贝
+
+python = 默认浅拷贝 除非调用一些method
+
 ## Solutions
 
 ### T166
@@ -58,3 +64,4 @@ too many details
 
 ###213 
 very close to the solution: review later
+
