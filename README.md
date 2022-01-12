@@ -44,6 +44,19 @@ None is not the same as 0, False, or an empty string. None is a data type of its
 ### Python Deque(great tools)
 https://www.geeksforgeeks.org/deque-in-python/
 
+### Python heapq - Heap queue algorithm
+
+heapq.heappush(heap, item)
+>Push the value item onto the heap, maintaining the heap invariant.
+
+heapq.heappop(heap)
+>Pop and return the smallest item from the heap, maintaining the heap invariant. If the heap is empty, IndexError is raised. To access the smallest item without popping it, use heap[0].
+
+heapq.heapify(x)
+>Transform list x into a heap, in-place, in linear time
+
+>如果需要最大堆的话，两次取反
+
 ### deepcopy & shallow copy
 
 C++ 简单=赋值就是深拷贝，引用和取地址才是浅拷贝
@@ -62,6 +75,8 @@ python = 默认浅拷贝 除非调用一些method
 take care of conditions!!!
 too many details
 
-###213 
+### 213 
 very close to the solution: review later
 
+### 300&435
+Very good example! Deserve thinking.

@@ -83,7 +83,12 @@ from collections import defaultdict
 # a.sort(key=lambda x:x[1])
 # print(a[0][-1])
 # print(a)
+#
+# interval = []
+# interval.sort()
+# for i in range(1):
+#     print("bingo")
+# print("XXX")
 
-placed = False
-if not placed:
-    print("bigno")
+for i in range(0):
+    print(i)
